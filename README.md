@@ -10,23 +10,31 @@
 
 ### 🛠️ Мой стек технологий и инструментов
 
-*   **Automation Platforms:**
+*   **Automation platforms:**
     ![n8n](https://img.shields.io/badge/n8n-12B57F?style=for-the-badge&logo=n8n&logoColor=white)
     ![Make.com](https://img.shields.io/badge/Make-6937FF?style=for-the-badge)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-*   **AI & Cloud Services:**
+*   **Ai & services:**
     ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
     ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E77D3?style=for-the-badge&logo=google-gemini&logoColor=white)
     ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-000000?style=for-the-badge)
+    ![OpenRouter](https://img.shields.io/badge/OpenRouter-8C26E6?style=for-the-badge)
+
+*   **Development & databases:**
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue)
+    ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+*   **Infrastructure & tools:**
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
     ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandex-cloud&logoColor=white)
-
-*   **Development & Databases:**
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+    ![Railway](https://img.shields.io/badge/Railway-0B0D12?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
