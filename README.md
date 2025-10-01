@@ -15,17 +15,19 @@
     ![Make.com](https://img.shields.io/badge/Make-6937FF?style=for-the-badge)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-*   **Ai & services:**
+*   **Ai & architecture:**
     ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
     ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E77D3?style=for-the-badge&logo=google-gemini&logoColor=white)
     ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-000000?style=for-the-badge)
     ![OpenRouter](https://img.shields.io/badge/OpenRouter-8C26E6?style=for-the-badge)
+    ![RAG](https://img.shields.io/badge/RAG-22A5B3?style=for-the-badge)
+    ![Zep](https://img.shields.io/badge/Zep-A435F0?style=for-the-badge)
 
 *   **Development & databases:**
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue)
     ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
