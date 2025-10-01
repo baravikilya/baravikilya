@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Мой стек технологий и инструментов
+## 🛠️ Мой стек технологий и инструментов
 
 *   **Automation platforms:**
     ![n8n](https://img.shields.io/badge/n8n-12B57F?style=for-the-badge&logo=n8n&logoColor=white)
@@ -75,7 +75,7 @@
 
 ---
 
-### 📫 Как со мной связаться:
+## 📫 Как со мной связаться:
 
 *   **Telegram:** [https://t.me/Yi_li_ya](https://t.me/Yi_li_ya)
 *   **Email:** [baravikilya@gmail.com](mailto:baravikilya@gmail.com)
